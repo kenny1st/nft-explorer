@@ -1,6 +1,3 @@
-# nft-explorer
-A lightweight NFT explorer for tracking NFT collections, ownership history, and marketplace activity.
-
 # NFT Explorer 🔍  
 A lightweight NFT explorer for tracking NFT collections, ownership history, and marketplace activity.  
 

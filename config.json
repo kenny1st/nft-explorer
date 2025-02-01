@@ -1,0 +1,5 @@
+{
+  "blockchain": "ethereum",
+  "infura_project_id": "your-infura-project-id",
+  "alchemy_api_key": "your-alchemy-api-key"
+}
